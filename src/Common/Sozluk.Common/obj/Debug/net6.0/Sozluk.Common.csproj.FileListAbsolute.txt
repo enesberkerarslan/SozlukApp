@@ -1,0 +1,12 @@
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\bin\Debug\net6.0\Sozluk.Common.deps.json
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\bin\Debug\net6.0\Sozluk.Common.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\bin\Debug\net6.0\Sozluk.Common.pdb
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.csproj.AssemblyReference.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.AssemblyInfoInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.AssemblyInfo.cs
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.csproj.CoreCompileInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\refint\Sozluk.Common.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\Sozluk.Common.pdb
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Common\Sozluk.Common\obj\Debug\net6.0\ref\Sozluk.Common.dll

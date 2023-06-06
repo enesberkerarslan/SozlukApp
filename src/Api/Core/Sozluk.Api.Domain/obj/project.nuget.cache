@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5TCBLy3SqyOWCH5rJqhajgsQ03D1kAnDABaT/H/xO9BhW4UHIfFtv4c/Rx/pDuwQUSElRn3nKc+RZSuKREwXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\Sozluk\\src\\Api\\Core\\Sozluk.Api.Domain\\Sozluk.Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ŞNSE\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\ŞNSE\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ŞNSE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

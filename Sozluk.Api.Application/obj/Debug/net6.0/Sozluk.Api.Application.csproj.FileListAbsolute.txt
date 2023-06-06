@@ -1,0 +1,5 @@
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\Sozluk.Api.Application\obj\Debug\net6.0\Sozluk.Api.Application.csproj.AssemblyReference.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\Sozluk.Api.Application\obj\Debug\net6.0\Sozluk.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\Sozluk.Api.Application\obj\Debug\net6.0\Sozluk.Api.Application.AssemblyInfoInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\Sozluk.Api.Application\obj\Debug\net6.0\Sozluk.Api.Application.AssemblyInfo.cs
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\Sozluk.Api.Application\obj\Debug\net6.0\Sozluk.Api.Application.csproj.CoreCompileInputs.cache

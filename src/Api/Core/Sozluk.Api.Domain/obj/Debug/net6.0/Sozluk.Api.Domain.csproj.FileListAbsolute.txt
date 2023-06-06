@@ -1,0 +1,15 @@
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\bin\Debug\net6.0\Sozluk.Api.Domain.deps.json
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\bin\Debug\net6.0\Sozluk.Api.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\bin\Debug\net6.0\Sozluk.Api.Domain.pdb
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\bin\Debug\net6.0\Sozluk.Common.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\bin\Debug\net6.0\Sozluk.Common.pdb
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.AssemblyInfo.cs
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.csproj.CopyComplete
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\refint\Sozluk.Api.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\Sozluk.Api.Domain.pdb
+C:\Users\ŞNSE\Desktop\Basladık\Sozluk\src\Api\Core\Sozluk.Api.Domain\obj\Debug\net6.0\ref\Sozluk.Api.Domain.dll
